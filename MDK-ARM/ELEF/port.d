@@ -1,0 +1,12 @@
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+elef\port.o: D:\19Keil\ARM\ARMCC\Bin\..\include\stddef.h
+elef\port.o: D:\19Keil\ARM\ARMCC\Bin\..\include\stdint.h
+elef\port.o: ../Core/Inc/FreeRTOSConfig.h
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+elef\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,15 @@
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+elef\timers.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stdlib.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+elef\timers.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stddef.h
+elef\timers.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stdint.h
+elef\timers.o: ../Core/Inc/FreeRTOSConfig.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+elef\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

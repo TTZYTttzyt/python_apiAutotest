@@ -1,0 +1,15 @@
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+elef\queue.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stdlib.h
+elef\queue.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\string.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+elef\queue.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stddef.h
+elef\queue.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stdint.h
+elef\queue.o: ../Core/Inc/FreeRTOSConfig.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+elef\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

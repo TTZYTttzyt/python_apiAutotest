@@ -1,0 +1,12 @@
+elef\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+elef\list.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stdlib.h
+elef\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+elef\list.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stddef.h
+elef\list.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stdint.h
+elef\list.o: ../Core/Inc/FreeRTOSConfig.h
+elef\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+elef\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+elef\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+elef\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+elef\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+elef\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

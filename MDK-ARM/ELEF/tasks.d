@@ -1,0 +1,16 @@
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+elef\tasks.o: D:\19Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+elef\tasks.o: D:\19Keil\ARM\ARMCC\Bin\..\include\string.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+elef\tasks.o: D:\19Keil\ARM\ARMCC\Bin\..\include\stddef.h
+elef\tasks.o: D:\19Keil\ARM\ARMCC\Bin\..\include\stdint.h
+elef\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+elef\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

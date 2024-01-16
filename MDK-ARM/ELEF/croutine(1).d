@@ -1,0 +1,14 @@
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+elef\croutine.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stddef.h
+elef\croutine.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stdint.h
+elef\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+elef\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

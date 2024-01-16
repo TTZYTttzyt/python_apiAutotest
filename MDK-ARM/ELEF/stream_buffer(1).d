@@ -1,0 +1,14 @@
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+elef\stream_buffer.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stdint.h
+elef\stream_buffer.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\string.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+elef\stream_buffer.o: D:\zdj\3\ARM\ARMCC\Bin\..\include\stddef.h
+elef\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+elef\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
